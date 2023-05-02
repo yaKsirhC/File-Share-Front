@@ -16,7 +16,7 @@ pnpm install
 
 ## Replace.
 
-replace every <your-public-ip> instance with your public ip.
+replace every \<your-public-ip\> instance with your public ip.
 
 ## Build The App for production.
 
